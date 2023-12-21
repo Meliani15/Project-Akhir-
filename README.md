@@ -4,3 +4,6 @@
 <div> 2. Asti Ananta (231031083) </div>
 <div> 3. Mulyadi (231031072) </div>
 <div> Prodi: Sistem Informasi C </div>
+
+* Projek akhir : program pencatat keuangan sederhana `projek akhir.py`
+
